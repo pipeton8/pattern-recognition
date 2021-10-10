@@ -1,6 +1,6 @@
 # Assignment 1: Letter Recognition
 
-* Assignment [[link]](https://github.com/pipeton8/6.864-advanced-nlp/blob/main/Assignments/Assignment%202/Assignment%202.pdf)
+* Assignment [[link]](https://github.com/pipeton8/pattern-recognition/blob/main/assignments/1%20-%20Letter%20recognition/README.md)
 * Colab notebook: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pipeton8/pattern-recognition/blob/main/Tarea1_FdC_Patrones.ipynb)
 
 ## Description
