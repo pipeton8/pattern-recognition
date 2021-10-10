@@ -5,7 +5,7 @@
 ## Description
 The objective of this assignment is to design and evaluate a classifier that is able to recognize letters X, Y, Z, A, B, in different fonts. In the zip file that is downloaded in the Colab Notebook there are 100 images for each one of the five letters. Some of them are shown below:
 
-<img src="https://github.com/pipeton8/pattern-recognition/blob/main/samples.png" width="600">
+<img src="https://github.com/pipeton8/pattern-recognition/blob/main/assignments/1%20-%20Letter%20recognition/samples.png" width="600">
 
 The image are stored as `'char_nn_kkk.png'`, where nn = 01, ... 05, indicates the coded letter class (X, Y, Z, A, B respectively), and kkk = 001, 002, ... 100 indicates the image number.
 
