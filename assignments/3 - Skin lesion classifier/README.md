@@ -23,11 +23,11 @@ In this assignment, the classifier must be able to discrimate correctly between 
 
 Moreover, in the assignment must be compared at least 5 different strategies. Two strategies are different if they differ in at least two of their "blocks". Every parameter and hyperparameter of the model can be adjusted using the validation set. The solution must be evaluated on the testing set. 
 
-IT IS NOT ALLOWED:
-- use of deep learning techniques, nor neural networks of two or more hidden layers.
-
 IT IS ALLOWED:
 - use of feature extraction, selection and transformation libraries (e.g., `pybalu`).
 - use of classifier libraries (e.g., `scikit-learn`).
 - use of math function libraries (e.g., `numpy`)
 - use of visualization libraries (e.g., `seaborn`, `matplotlib`)
+
+IT IS NOT ALLOWED:
+- use of deep learning techniques, nor neural networks of two or more hidden layers.
