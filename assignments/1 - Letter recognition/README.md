@@ -4,7 +4,7 @@
 * Colab notebook  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pipeton8/pattern-recognition/blob/main/Tarea1_FdC_Patrones.ipynb)
 
 ## Description
-The objective of this assignment is to design and evaluate a classifier for letters X, Y, Z, A, B, in different fonts. In the zip file that is downloaded in the Colab Notebook there are 100 images for each one of the five letters. Some of them are shown below:
+The objective of this assignment is to design and evaluate a classifier that is able to recognize letters X, Y, Z, A, B, in different fonts. In the zip file that is downloaded in the Colab Notebook there are 100 images for each one of the five letters. Some of them are shown below:
 
 <img src="https://github.com/pipeton8/pattern-recognition/blob/main/samples.png" width="600">
 
