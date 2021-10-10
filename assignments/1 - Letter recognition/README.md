@@ -7,10 +7,10 @@ The objective of this assignment is to design and evaluate a classifier that is 
 
 <img src="https://github.com/pipeton8/pattern-recognition/blob/main/assignments/1%20-%20Letter%20recognition/samples.png" width="600">
 
-The images are stored as `char_nn_kkk.png`, where nn = 01, ... 05, indicates the coded letter class (X, Y, Z, A, B respectively), and kkk = 001, 002, ... 100 indicates the image number.
+The images are stored as `char_nn_kkk.png`, where `nn` = 01, ... 05, indicates the coded letter class (X, Y, Z, A, B respectively), and `kkk` = 001, 002, ... 100 indicates the image number.
 
 In this assignment, there is freedom to extract as many features as needed in order to design the classifier. The classifier should be trained using 75 pictures of each class and tested on the remaining 25. However, there are certain restrictions:
   * Only image processing functions whose input and output are images are allowed.
   * Is not allowed to use functions that extract image features directly.
   * Is not allowed to use functions that classify.
-  * Is not allowed to use functions that perform evaluationn.
+  * Is not allowed to use functions that perform evaluation.
