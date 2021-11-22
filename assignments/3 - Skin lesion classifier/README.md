@@ -1,6 +1,6 @@
 # Assignment 3: Skin Lesion Classifier
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/pipeton8/pattern-recognition/blob/main/assignments/3%20-%20Skin%20lesion%20classifier/assignment3_fdc.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pipeton8/pattern-recognition/blob/main/assignments/3%20-%20Skin%20lesion%20classifier/assignment3_fdc.ipynb)
 
 ## Description
 The objective of this assignment is to design an automatic cancer mole classifier based on mole pictures. For this task, the images belong to the database of  the [International Skin Imaging Collaboration](https://coh.centre.uq.edu.au/project/international-skin-imaging-collaboration), that implemented the Melanoma Project. This project "is an international academia and industry partnership designed to develop and promote standards for digital skin imaging to help reduce melanoma mortality". 
